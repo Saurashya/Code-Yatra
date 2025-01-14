@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font: "Poppins", serif;
+}
+
+#shadow-circle{
+    box-shadow: 0px 0px 80px 100px #950cf0;
+    transform: translateX(-900px) translateY(-300px);
+}
+
+#footer{
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+}
