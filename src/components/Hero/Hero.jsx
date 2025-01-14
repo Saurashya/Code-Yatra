@@ -31,7 +31,8 @@ const Hero = () => {
         <div className="container-timer flex justify-center items-center z-30">
             <div className="container-text-timer h-[50%] w-[100%] relative  cursor-default">
             <div className="image h-[100%] w-[100%]">
-                <img src={vision} alt="" />
+                <img src="https://drive.google.com/uc?export=view&id=1EEdqlsnip2e5KwzOTGzrjFBxMIuj_HPu
+" alt="" />
             </div>
             <div className="timer-text grid grid-cols-7 h-[20%] w-[60%] text-white tracking-normal absolute top-[38%] left-[20%]">
                 <h2 className=' text-4xl font-bold'>{days}</h2>

@@ -6,7 +6,8 @@ const NavBar = () => {
     <div>
         <nav className="h-[7vh] bg-black text-white font-light z-40 fixed w-[100vw]">
             <ul className='flex justify-around items-center h-[100%] w-[100%] text-xl cursor-pointer tracking-wide'>
-                <img src={img} alt=" code yatra Logo" className='w-[14vw]'/>
+                <img src="https://drive.google.com/uc?export=view&id=1SBePiqxW2j5NNFVvntmUUaVKPxAe4OnY
+" alt=" code yatra Logo" className='w-[14vw]'/>
                 <li className='hover:scale-110 hover:font-semibold'>Home</li>
                 <li className='hover:scale-110 hover:font-semibold'>About</li>
                 <li className='hover:scale-110 hover:font-semibold'>Gallery</li>
