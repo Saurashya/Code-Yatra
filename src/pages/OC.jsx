@@ -1,7 +1,7 @@
 import React from 'react'
-import Itclub from "../assets/itclub.png"
-import Hecc from "../assets/hecc.png"
-import Hrc from "../assets/hrc.png"
+import Itclub from "/assets/Itclub.png"
+import Hecc from "/assets/hecc.png"
+import Hrc from "/assets/Hrc.png"
 
 const OC = () => {
   return (
